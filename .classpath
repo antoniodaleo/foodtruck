@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="biblioteca"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="biblioteca/mysql-connector-java-5.1.26.jar"/>
+	<classpathentry kind="lib" path="biblioteca/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="biblioteca/itext-pdfa-5.5.4.jar"/>
+	<classpathentry kind="lib" path="biblioteca/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="lib" path="biblioteca/jasperreports-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ANTONIO/Desktop/Sistema Ufficiale AÇAI/FOOD/biblioteca/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
